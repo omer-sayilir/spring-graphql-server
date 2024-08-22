@@ -1,5 +1,5 @@
 
-#   Spring Boot GraphQL Demo
+#   Spring Boot GraphQL
 
     This project is a simple demo application built with Spring Boot and GraphQL. It demonstrates how to create a basic GraphQL API with a schema and resolvers to manage book and author data.
 
